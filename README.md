@@ -1,0 +1,2 @@
+# pythonmysql
+Python pratice project
